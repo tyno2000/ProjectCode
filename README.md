@@ -5,3 +5,4 @@ First, connect the sensor to the RPI using 3 female to female jumper wires:
 work, mine has a build-in resistor)
 - The third pin of the sensor connect to the sixth pin of the RPI
 Connect the RPI to a power source
+If the sensor is not working, check if the pin is wired correctly.
